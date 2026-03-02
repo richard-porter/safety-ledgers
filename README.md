@@ -121,7 +121,7 @@ The goal is not to win an argument. The goal is a public record that is accurate
 ## Related Repositories
 
 - 🧊 [Frozen Kernel](https://github.com/richard-porter/frozen-kernel) — The single-agent safety architecture this ledger library builds on
-- 🔗 [Trust Chain Protocol](https://github.com/richard-porter/richard-porter-trust-chain-protocol) — Network-layer safety for multi-agent AI systems
+- 🔗 [Trust Chain Protocol](https://github.com/richard-porter-trust-chain-protocol) — Network-layer safety for multi-agent AI systems
 - 📖 [AI Collaboration Field Guide](https://github.com/richard-porter/ai-collaboration-field-guide) — Practical human skills for AI collaboration safety
 - 🔬 [Dimensional Authorship](https://github.com/richard-porter/dimensional-authorship) — The research case study where these frameworks were developed
 - 🗺️ [Where to Start](https://github.com/richard-porter/where-to-start) — Full ecosystem map
