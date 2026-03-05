@@ -19,19 +19,16 @@ This repository applies a single methodology across all of them: binary architec
 
 ## The Ledger Library
 
-|Ledger                                                                   |Domain                        |Criteria|Scoring Index               |
-|-------------------------------------------------------------------------|------------------------------|--------|----------------------------|
-|[v1.0 Proactive Safety Criteria](v1.0%20Proactive%20Safety%20Criteria.md)|Adult / explicit content      |9       |ACI                         |
-|<therapy-mode-safety-ledger.md>                                          |Mental health / therapeutic AI|10      |—                           |
-|<financial-advice-mode-safety-ledger.md>                                 |Financial guidance            |10      |FACI                        |
-|<legal-analysis-mode-safety-ledger.md>                                   |Legal analysis                |11      |LACI                        |
-|<hrbp-ai-safety-framework.md>                                            |Human resources / HR AI       |—       |Wrongful Termination Test   |
-|<safe-storyteller-framework.md>                                          |Pediatric / clinical settings |8       |Pediatric Adverse Event Test|
-
-| [education-mode-safety-ledger.md](education-mode-safety-ledger.md) | Educational instruction | 10 | EACI |
-
-| [education-mode-safety-ledger.md](education-mode-safety-ledger.md) | Educational instruction | 12 | EACI |
-
+|Ledger                                                                   |Domain                        |Criteria              |Scoring Index               |
+|-------------------------------------------------------------------------|------------------------------|----------------------|----------------------------|
+|[v1.0 Proactive Safety Criteria](v1.0%20Proactive%20Safety%20Criteria.md)|Adult / explicit content      |9                     |ACI                         |
+|<therapy-mode-safety-ledger.md>                                          |Mental health / therapeutic AI|10                    |—                           |
+|<financial-advice-mode-safety-ledger.md>                                 |Financial guidance            |10                    |FACI                        |
+|<legal-analysis-mode-safety-ledger.md>                                   |Legal analysis                |11                    |LACI                        |
+|<hrbp-ai-safety-framework.md>                                            |Human resources / HR AI       |—                     |Wrongful Termination Test   |
+|<safe-storyteller-framework.md>                                          |Pediatric / clinical settings |8                     |Pediatric Adverse Event Test|
+|<education-mode-safety-ledger.md>                                        |Educational instruction       |12                    |EACI                        |
+|<collection-ledger-pattern.md>                                           |Adversarial data collection   |5 governing principles|Gap Detection Index         |
 
 **Why different criteria counts?** Each domain earns its count based on the specificity of documented failure modes. Legal analysis has 11 because jurisdiction and citation failure are structurally distinct problems requiring separate gates. Therapy has 10 because clinical harm prevention (including AI-induced psychosis) requires a dedicated section that adult mode does not. The methodology is consistent; the criteria are domain-calibrated.
 
@@ -81,28 +78,30 @@ Platform evaluations for the therapy, financial, legal, HR, and pediatric ledger
 
 ## Repository Structure
 
-|File                                            |Contents                                  |
-|------------------------------------------------|------------------------------------------|
-|`README.md`                                     |This file                                 |
-|`Methodology.md`                                |Evaluation methodology and empirical basis|
-|`v1.0 Proactive Safety Criteria.md`             |Adult mode — complete v1.0 criteria       |
-|`therapy-mode-safety-ledger.md`                 |Therapy / mental health AI criteria       |
-|`financial-advice-mode-safety-ledger.md`        |Financial advice AI criteria              |
-|`legal-analysis-mode-safety-ledger.md`          |Legal analysis AI criteria                |
-|`hrbp-ai-safety-framework.md`                   |HR / HRBP AI safety framework             |
-|`safe-storyteller-framework.md`                 |Pediatric / clinical AI criteria          |
-|`Initial Baseline Assessment.md`                |Baseline scorecard: all five platforms    |
-|`ChatGPT (OpenAI) - Co-Architect Response.md`   |Platform scorecard: ChatGPT               |
-|`Claude (Anthropic) — Research Lead Response.md`|Platform scorecard: Claude                |
-|`Gemini (Google) - Peer Reviewer Response.md`   |Platform scorecard: Gemini                |
-|`Grok (xAI) - Peer Reviewer Response.md`        |Platform scorecard: Grok                  |
-|`DeepSeek Peer Reviewer.md`                     |Platform scorecard: DeepSeek              |
-|`HIP_FRAMEWORK.md`                              |Human Intervention Points framework       |
-|`human-intervention-points.md`                  |Human intervention documentation          |
-|`Open Invitation to AI Systems.md`              |Open letter to platforms on self-reporting|
-|`CHANGELOG.md`                                  |Version history and criteria updates      |
-|`CONTRIBUTING.md`                               |Contribution guidelines                   |
-|`LICENSE.md`                                    |License                                   |
+|File                                            |Contents                                                 |
+|------------------------------------------------|---------------------------------------------------------|
+|`README.md`                                     |This file                                                |
+|`Methodology.md`                                |Evaluation methodology and empirical basis               |
+|`v1.0 Proactive Safety Criteria.md`             |Adult mode — complete v1.0 criteria                      |
+|`therapy-mode-safety-ledger.md`                 |Therapy / mental health AI criteria                      |
+|`financial-advice-mode-safety-ledger.md`        |Financial advice AI criteria                             |
+|`legal-analysis-mode-safety-ledger.md`          |Legal analysis AI criteria                               |
+|`hrbp-ai-safety-framework.md`                   |HR / HRBP AI safety framework                            |
+|`safe-storyteller-framework.md`                 |Pediatric / clinical AI criteria                         |
+|`education-mode-safety-ledger.md`               |Educational instruction AI criteria                      |
+|`collection-ledger-pattern.md`                  |Generalized pattern for adversarial compliance collection|
+|`Initial Baseline Assessment.md`                |Baseline scorecard: all five platforms                   |
+|`ChatGPT (OpenAI) - Co-Architect Response.md`   |Platform scorecard: ChatGPT                              |
+|`Claude (Anthropic) — Research Lead Response.md`|Platform scorecard: Claude                               |
+|`Gemini (Google) - Peer Reviewer Response.md`   |Platform scorecard: Gemini                               |
+|`Grok (xAI) - Peer Reviewer Response.md`        |Platform scorecard: Grok                                 |
+|`DeepSeek Peer Reviewer.md`                     |Platform scorecard: DeepSeek                             |
+|`HIP_FRAMEWORK.md`                              |Human Intervention Points framework                      |
+|`human-intervention-points.md`                  |Human intervention documentation                         |
+|`Open Invitation to AI Systems.md`              |Open letter to platforms on self-reporting               |
+|`CHANGELOG.md`                                  |Version history and criteria updates                     |
+|`CONTRIBUTING.md`                               |Contribution guidelines                                  |
+|`LICENSE.md`                                    |License                                                  |
 
 -----
 
