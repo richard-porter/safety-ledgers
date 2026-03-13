@@ -151,6 +151,7 @@ Architectural context: Drift Through Accumulated Context is a response trap oper
 - [`frozen-kernel`](https://github.com/richard-porter/frozen-kernel) — Source of Honest Response Primitive taxonomy; architectural authority for what “non-drifted” means
 - [`trust-chain-protocol`](https://github.com/richard-porter/trust-chain-protocol) — Network-layer extension; drift detection at the session boundary layer
 - [`ai-collaboration-field-guide`](https://github.com/richard-porter/ai-collaboration-field-guide) — User-facing sovereign thinking tools that provide human-side drift detection
+- [`owasp-dsgai-mapping.md`](https://github.com/richard-porter/where-to-start/blob/main/owasp-dsgai-mapping.md) — Ecosystem-wide OWASP DSGAI 2026 coverage map; BDD-03 and BDD-07 map to DSGAI entries for behavioral safety and drift
 
 -----
 
