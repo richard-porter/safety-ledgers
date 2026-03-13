@@ -109,6 +109,8 @@ The system must: surface the date and source of every record it acts on before d
 - Does the system flag records older than twelve months as potentially stale, with explicit user notification? (Y/N)
 - Does the system distinguish between “no record of X” and “confirmed absence of X”? (Y/N)
 
+> **Cross-domain note — Permanent Tells framework:** Section 3’s treatment of data currency shares a structural insight with the Temporally-Anchored Direction Change tell in the [Permanent Tells framework](https://github.com/richard-porter/dimensional-authorship/blob/main/analysis/permanent-tells.md). Both treat the interval between documented moments as information rather than noise to be suppressed. In Section 3, the interval is the gap between when a medical record was created and when it is applied — a gap that may contain clinical change the record does not reflect. In Tell 5, the interval is the gap between collaboration sessions, during which the author’s life continued and may have changed the work’s direction. The contexts are different (clinical data governance vs. authorship provenance) but the underlying structural principle is the same: elapsed time is evidentiary, and systems that treat stale data as current are not providing confidence — they are manufacturing it.
+
 -----
 
 ### Section 4 — Diagnostic Boundary Enforcement
@@ -323,5 +325,6 @@ The only ask: **if you build on this framework, be honest about what the tests a
 
 -----
 
-*Richard Porter | March 2026 | v1.0*  
+*Richard Porter | March 2026 | v1.1*  
+*v1.1: Section 3 cross-domain note added — Permanent Tells Tell 5 (Temporally-Anchored Direction Change). Elapsed time as evidentiary signal: shared structural insight across clinical data currency and authorship provenance.*  
 *Developed in the [Richard Porter AI Safety ecosystem](https://github.com/richard-porter/where-to-start)*
