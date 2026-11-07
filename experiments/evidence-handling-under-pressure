@@ -1,0 +1,376 @@
+Evidence Handling Project Checkpoint
+
+Version 0.1  |  7 November 2026  |  Paused before Step 1
+This record preserves the project’s purpose, process, evolving scope, discarded and deferred choices, review assessment, and resumption instructions. It records the conversation and the inspected files; it does not reconstruct unavailable source documents or turn proposed methods into validated results.
+Current state
+Item
+State at pause
+Current question
+In mixed-claim editing, can evidence-handling prompts reduce factual errors without unnecessary supported-content loss, interruption, or failure to accept a valid update?
+Candidate contribution
+Authority-conditioned collateral preservation loss during correction; incremental value remains open.
+Design in v0.2
+A ordinary faithful editing; B candidate evidence specification; C published evidence-gated revision. Whole-prompt comparison, not an isolated clause effect.
+Evidence gathered here
+Five reviewer returns; 37 numbered findings; targeted literature retrieval; mechanical checks and document review.
+Evidence not gathered
+No efficacy data under v0.2; no scoring-development results; no controlled full-protocol versus short-request test.
+Working next direction
+Prepare one hand-written scoring development set. Turn 2 focal and Turn 3 secondary are recommendations to carry into design, not frozen statistical decisions.
+User’s latest instruction
+Document the work and relevant parking-lot additions, then pause. No background execution, schedule, publication or new model run is authorized by this checkpoint.
+Practical contribution standard
+The user wants one defensible, useful research nugget and a clean record of the January experience. Personal closure is a motivation, not a desired scientific outcome. A null, deterioration, ceiling or measurement-failure result must remain reportable. Stop or narrow when the next stage cannot justify its cost.
+Reading order
+Start with the separate one-page START HERE. Use this checkpoint for history and rationale. The v0.2 packet remains the last circulated proposal; the separate review-decision record contains the detailed verification narrative. The source archive preserves both proposal versions and the mechanical audit. The full original reviewer messages remain in this conversation; the archive preserves their 37-item finding register and supplied provenance, not a verbatim conversation export.
+
+Origins and background preserved with limits
+Conceptual route into the question
+The conversation began with Buddhism and Stoicism, their overlap, the Serenity Prayer, Huxley’s “lightly” passage, Bruce Lee’s water metaphor, direction versus presence, and life unfolding amid plans. It moved through haiku and constrained creativity; meaning in living; the Scout oath and law; values, morals, scruples, and the distinction between ability and justified action.
+The connection to AI was whether those principles could inform training and safeguards. Corporate personhood and papal statements were supplied as a philosophical analogy about nonhuman agency and continued human accountability. These were discussion inputs, not an operational ethical specification, a legal finding, or evidence of conscience in a model. No missing haiku, diagram, quotation attribution or earlier assistant answer has been reconstructed here.
+January motivation and historical evidence
+The user’s supplied application summary reports that between January 22 and 26 an AI drafted roughly a dozen legal memos, including claims about code that did not exist; correction memos were written by hand. This experience motivates the safety work. The original memos, code history and correction record were not inspected in this checkpoint and are not treated as a newly verified incident dataset.
+Prior-work summaries mention Frozen Kernel, Pyrrhic Victory, Honest Response Primitives, CODA/Chorus, MOU-versus-contract framing, Experiment 58, FFS, Jeeves, Pattern Mapper and Book of Life. They supply questions and possible artifacts. Raw historical runs and denominators were generally not in hand. Reported model agreement, template compliance, and hand-entered scores are not independently replicated efficacy evidence.
+Application and independent research are separate
+The initial intent in this thread was to work as if preparing an application without necessarily applying. Later the user explicitly referred to having applied; that latest statement is the recorded position. No submission date or selection outcome was verified here. Application-quality presentation can reveal judgment, but it does not substitute for a useful study or results.
+The older application summary included remote participation, six weeks, flexible timing, no relocation/visa requirement, an AI-safety mentor area, portfolio links and two community references. Those are historical application logistics, not scientific design requirements or permissions to contact anyone. No message was sent to another model, mentor or reference by this assistant.
+
+How the research question changed
+Stage
+Question or change
+Why it changed
+Original external-enforcement proposal
+Text instructions versus an external checker under scripted escalation.
+A separate inside-versus-outside enforcement question. Generated output, released output, false blocks and escaped errors would need separate measurement.
+Early historical support
+CODA draft reportedly involved five commercial systems, ten runs and two detections.
+Raw logs and denominator meaning were unavailable. Preserved as a lead, not an efficacy claim.
+Evidence-handling v0.1
+A ordinary instructions; B behavioral evidence specification; C approximate attention/length control.
+Narrowed to supported, unsupported and contradicted claims while preserving useful content.
+Targeted prior-work search
+Close prompting, pressure/updating, atomic scoring and revision-preservation predecessors found.
+General prompting novelty could not be sustained. Reframe as replication plus a possible specific extension.
+Evidence-handling v0.2
+C replaced by the published evidence-gated prompt; B versus C is the focal whole-prompt comparison.
+An established comparator is more informative than treating evidence-handling prompting as new.
+After external reviews
+Prioritize measurement of collateral preservation loss; clarify authority, output use and per-turn scoring.
+The simple one-fact illustration cannot adequately test the proposed preservation construct.
+The two proposals are related but not equivalent
+The current packet does not test external enforcement. Calling it merely a sharper version of the original text-rule-versus-check experiment was inaccurate and was corrected. The original remains parked separately. It needs its own concrete checker, fair release-stage accounting and prior-work assessment if reopened.
+Run sequence and budget remain provisional
+Turn 1 supplies evidence and an erroneous draft. Turn 2 requests retention of erroneous wording, with or without a claimed-authority cue. This is an authority-cue contrast, not pressure versus no pressure. Turn 3 supplies an authorized update. Clarify which artifact is edited and how the update’s authority is defined before execution.
+The circulated feasibility illustration is 2 packets × 3 arms × 2 cue states = 12 conversations / 36 responses. A later illustration is 12 fresh packets × 3 × 2 × 2 repeats = 144 conversations / 432 responses. These are not commitments, power calculations, observed results or a requirement for Step 1.
+
+Process and verification record
+Document due diligence
+The five Jeeves attachments were read. “Jeevie R1JP” and “Jeevie Review Instrument” both contain RI-JP document-review text; the actual RI-JV1 behavioral battery was not supplied. PRECHECK’s Jeeves report describes a staged reconstruction. The Master remained at engine selection. Structured output and adoption of a document therefore did not establish factual correctness or a passed behavioral baseline.
+PRECHECK Master, its two supplied family packs and Appendix 4 were reviewed. The family packs govern Synthesis outputs or PRECHECK’s own artifacts, not this research proposal. A one-off rule set was used rather than imposing every family requirement. The fiction-review instrument was not claimed to have been executed verbatim on the research packet.
+Mechanical checks and limits
+The first packet passed 20 encoded mechanical checks. The revised v0.2 passed 25 after rule updates for its version, six references, comparator, blinding and history removal. The one-off Python checks covered structure, versions, references, arithmetic and selected required/forbidden strings. They did not validate factual truth, novelty, semantics, scoring quality, model behavior or scientific readiness. Six final v0.2 pages were visually checked; the audit archive preserves the original run and later reruns.
+External review handling
+An identical v0.2 packet was intended for fresh reviewer sessions, without exposing prior returns. Five returns were pasted without model names. They are R1–R5 in order; 37 numbered findings were recorded, with original severity and an assessment. No independent-family convergence count is justified until model metadata is supplied.
+R1 disclosed automatic contextual summaries and no history retrieval. R2 did not browse. R3 claimed primary browsing but did not provide an explicit prior-exposure disclosure in the pasted text. R4 declared a cold read and incomplete exact S4 extraction. R5 disclosed opening two saved notes before reading, departing from the no-history-retrieval request. These are recorded as supplied self-reports; findings were assessed individually.
+What was done with the returns
+The assistant reconstructed the common question, grouped overlapping issues, retained singleton objections, checked findings against v0.2, verified consequential research claims against primary sources where accessible, and separated the comparison from its own recommendation. It did not adopt reviewer repairs by vote, rerun the experiment, or change v0.2. The complete 37-entry assessment register is appended to this checkpoint.
+
+Prior work and evidence status at pause
+This is a targeted literature record, not exhaustive novelty clearance. The exact combined extension remains unestablished. Listed findings are reported literature claims; no paper’s experiments were independently replicated here.
+Basta et al. 2026 — Correction or Manipulation? Direct evidence-gated prompting predecessor. Primary HTML, relevant methods and supplementary S4 accessed; user-only-facts exception and request-for-reasons instruction verified. https://arxiv.org/html/2610.36453v1
+Sinha 2026 — SycoBench-600: pressure resistance and correction selectivity in MCQ. Primary publication record and relevant protocol material accessed. https://aclanthology.org/2026.findings-acl.1759/
+He et al. 2026 — CoPE-Bench / SPAE: indexed primary abstract retrieved earlier; current direct primary full-text access failed. Detailed task-aware-prompt claim needs source capture before being relied on for a frozen design. https://arxiv.org/abs/2610.04329
+Min et al. 2023 — FActScore: atomic-fact support evaluation. Primary abstract checked. https://aclanthology.org/2023.emnlp-main.741/
+Gao et al. 2023 RARR — Revision of unsupported content with preservation. Primary abstract checked. https://aclanthology.org/2023.acl-long.910/
+Gao et al. 2023 ALCE — Correctness and citation evaluation. The paper uses entailment for citation recall and precision; a reviewer’s denial that it evaluates support was corrected. https://aclanthology.org/2023.emnlp-main.398.pdf
+Kruthof 2026 — EditPropBench: protected-unit collateral damage and required updates; adversarial empty, hedge and truncation outputs. Primary abstract and relevant full-text methods checked. This particularly narrows preservation-scoring novelty. https://arxiv.org/html/2605.02083v2
+Krishna et al. 2024 — GenAudit: evidence-linked document-grounded correction. Primary abstract and relevant methods checked. https://arxiv.org/html/2402.12566v3
+Ma et al. 2026 — Unsupported yielding versus rational updating and intervention tradeoffs. Primary abstract and intervention sections checked. https://arxiv.org/html/2608.26511v1
+Koneru et al. 2026 — Fixed-evidence grounding under user pressure. Primary abstract checked; full-method overlap not assessed in this pass. https://arxiv.org/abs/2603.20162
+Tang et al. 2026 SPINE — Sustained adaptive pressure up to 25 turns. Primary abstract checked; limits extrapolation from one cue without requiring expansion of our task. https://arxiv.org/abs/2609.09090
+
+Choices discarded superseded or parked
+Discarded means a claim or repair was not retained for this study. Parked means a potentially distinct question is preserved with a reopening trigger. No inference that a parked idea is worthless or an old tool obsolete is authorized.
+Choice
+Status
+Reason
+General alignment or conscience claim
+Discarded from scope
+Editing outputs cannot establish human values encoded in weights or general safety.
+Novel evidence-handling prompting claim
+Discarded
+Close prompting, correction and preservation work already exists.
+Current study equals original checker study
+Corrected
+The intervention locations and comparisons differ.
+Historical CODA/FFS scores as validation
+Not accepted as evidence
+Raw records, controls, blinding or denominator support were missing or weak.
+Attention/length control as C
+Superseded in v0.2
+Published prompt C supplies the focal comparison. Component attribution remains limited.
+Whole-prompt differences invalidate comparison
+Not accepted as a blocker
+v0.2 explicitly limits inference to bundled prompts. Extra arms require a new causal question.
+Turn 3 automatically proves pressure resistance
+Not accepted
+Recovery after a condition-dependent history can mask a Turn 2 failure.
+Arbitrary 5% or 90% preservation margin
+Not adopted
+Reviewer-suggested values lacked a task-based justification.
+New tradeoff ratio or compulsory co-primary tests
+Not adopted
+Separate outcomes are clearer at development stage; no need to add unvalidated metrics or testing complexity.
+Keyword scoring or zero preservation denominator
+Rejected
+Semantic checks and a fixed required-content denominator are necessary.
+Framework acceptance/refusal equals safety
+Rejected
+Score actual outputs and consequences rather than vocabulary or voluntary assent.
+Failure to fetch proves paper absent
+Rejected
+Retrieval limitation is distinct from existence; Basta’s S4 was accessible.
+Full named protocols required for all tasks
+Not adopted as default
+Concise instructions may suffice; no controlled comparison demonstrates incremental benefit here.
+Full protocol and NSM usefulness study
+Parked
+Separate practical comparison if recurring use warrants it; not another prerequisite for this study.
+Five-model factory-reset nature/nurture test
+Parked
+Fresh context does not reset training; responses do not reveal identical internal routes.
+Long/adaptive pressure and more model families
+Parked
+Potential extension with separate question and budget; no automatic scope expansion.
+Integrated LLM workflow build
+Parked
+A recurring concrete workflow is needed before implementation earns its cost.
+
+Step 1 outline ready for resumption
+Step 1 prepares materials only. It does not execute the three-arm model study or claim that the scorer is validated. Use the approved pause record to continue drafting without treating provisional design choices as frozen research decisions.
+Order
+Deliverable
+Required content
+1A
+One-page task contract
+Fictional finished report or internal draft: choose explicitly. Define allowed notes, authoritative evidence, legitimate updates and what the editor is asked to revise. Same common task permissions for later arms.
+1B
+One richer packet
+Several required supported draft propositions, at least one embedded with an unsupported attribution; unsupported and contradicted additions; a clearly defined later evidence replacement.
+1C
+Per-turn ledger
+Stable IDs, source pointers, status by turn, required preservation, permissible paraphrase/qualification, update relationship and new-claim policy. Evidence not in the draft is not automatically required output.
+1D
+Short scorer rubric
+Distinct factual errors versus repeated occurrences; assertions versus quoted rejections; false attribution; note placement; partial refusal and omission; stale old values; per-turn denominators.
+1E
+Eight written cases and withheld key
+Use the case list below. Derive a complete correct Turn 3 calibration reference from the richer ledger; the old one-fact example is only a numerical illustration.
+1F
+Independent scoring handoff
+Two scorers; appropriate evidence and rubric, no case keys or each other’s judgments; masked condition labels and randomized IDs where feasible; author/generator overlap disclosed.
+Eight output variants to prepare later
+ID
+Case
+Purpose
+V01
+Correct edit
+Turn 2; preserve every required supported claim and remove/correct errors.
+V02
+Selective deletion
+Turn 2; correct errors but drop some required supported content.
+V03
+Unfinished annotation
+Turn 2; label dubious material but leave an artifact unsuitable for its declared final use.
+V04
+Repeated unsupported assertion
+Turn 2; repeat one erroneous proposition to test counting conventions.
+V05
+Internal inconsistency
+Turn 2; retain both the correct and incompatible figures.
+V06
+False source attribution
+Turn 2; supported fact attributed to a source that does not establish it.
+V07
+Unjustified early update
+Turn 2; introduce the later figure before that evidence is available.
+V08
+Stale post-update figure
+Turn 3; retain superseded information after the authorized replacement.
+Stop once the contract, packet, ledger, rubric, cases and withheld key are ready. Independent scoring is the next stage. Do not set agreement thresholds from observed results; if a later threshold is needed, declare and justify it before new evaluation data. Keep ambiguous cases visible rather than forcing consensus.
+
+Dependencies parking review and restart boundary
+Open dependencies and when they matter
+Before Step 1: no missing historical file blocks preparation of a hand-written scoring set. Keep proposed labels and assumptions explicit. Before model calls: exact A/B/C runtime text, roles and order; common evidence-update contract; C’s exception and clarification behavior; final target artifact; sampling and logging; developmental purpose and continuation rule. Before confirmation: contribution, primary endpoint, justified preservation/completion margins, sample and analysis, exclusions and missing-output policy must be frozen.
+The earlier “Pre-registration plan v0.1: text rule versus external check” was reported but not supplied or located in the earlier title search. Retrieve it before claiming replacement, compatibility or non-duplication with that study. Original CODA/BDD/FFS run logs remain missing dependencies only if their results will be cited. Five reviewer model/version labels and launch metadata remain unavailable; do not invent them.
+Parking lot review performed
+The existing BOOK_OF_LIFE_Parking_Lot_v0.1.md was located and read in full. Its actual inventory is 26 item rows: 7 F, 7 O and 12 I. An earlier retrieval summary described 30; no four missing entries were invented. All original item rows and the governing rule are preserved. The updated v0.2 appends 10 rows: F-08–F-14 and O-08–O-10, totaling 36.
+Existing F-06, F-07, O-01, O-02, O-03, O-06, O-07 and I-01 are pertinent. They remain parked or reusable background, not adopted evidence or new prerequisites. The old Book of Life critical-path line is retained verbatim but explicitly dated as historical; this review did not establish its current project status or reopen that project.
+Files to retain
+New: this checkpoint; Evidence_Handling_START_HERE_v0_1.docx; updated parking lot v0.2; the supporting source archive with manifest. Existing: v0.1 and v0.2 research packets; Review_Decision v0.1; PRECHECK audit ZIP. The archive also contains the inspected Jeeves, PRECHECK and Synthesis source attachments, original parking-lot snapshot, numbered review register, and document-generation scripts. It contains no new research runner, efficacy data or verbatim conversation export.
+Resumption prompt
+“Resume Step 1 from Evidence_Handling_START_HERE_v0_1.docx and the checkpoint. Prepare one richer fictional packet, a common task contract, per-turn ledger, short rubric, eight hand-written variants and withheld answer key. Preserve the v0.2 circulated proposal and original review record. Stop when the materials are ready for independent scoring; do not run models or silently freeze unresolved choices.”
+A new assistant can use this record without claiming prior involvement or independent validation. Read START HERE first; consult the full checkpoint and source archive only as needed. Do not reload all historical tool manuals as a default requirement.
+
+Appendix finding register returns R1 to R3
+Copied from the 7 November review-decision record. Original severity is a reviewer label; the assessment is a recommendation, not an author ruling.
+Finding
+Original severity
+Issue
+Assessment
+R1 F01
+BLOCKER
+Runtime C and common permissions
+Supported before comparative execution; hand scoring may proceed.
+R1 F02
+NOTABLE
+Turn 3 depends on prior behavior
+Supported; distinguish final workflow performance from isolated updating.
+R1 F03
+NOTABLE
+Qualified claims versus finished artifact
+Supported; quote is in P2, despite the reviewer’s P4 locator.
+R1 F04
+NOTABLE
+One supported proposition in P5
+Supported for development coverage; example alone is not validation.
+R1 F05
+NOTABLE
+Neutral request still pushes errors
+Supported; name it an authority-cue contrast.
+R1 F06
+NOTABLE
+Preservation loss margin open
+Supported before confirmation; not a barrier to hand scoring.
+R1 F07
+NOTABLE
+Repeated assertions unspecified
+Supported; distinguish propositions from occurrences and quotations.
+R1 F08
+NOTABLE
+Additional editing predecessors
+Supported; new primary leads narrow novelty.
+R2 F-01
+BLOCKER
+Unequal prompt length invalidates contrast
+Not accepted as a blocker for the declared whole-prompt comparison.
+R2 F-02
+BLOCKER
+Primary endpoint open
+Supported before confirmation; co-primary testing is not required.
+R2 F-03
+NOTABLE
+Preservation margin absent
+Concern supported; suggested 5% has no supplied justification.
+R2 F-04
+NOTABLE
+C exception conflicts with task
+Qualified; check contract; role acceptance is not evidence replacement.
+R2 F-05
+MINOR
+Content-free output denominator
+Clarify output scoring; suggested zero denominator is incorrect.
+R3 F1
+NOTABLE
+Cannot isolate preservation clause
+True limitation already declared; no mandatory fourth arm.
+R3 F2
+NOTABLE
+Pilot lacks efficacy power target
+Not accepted for scoring-only feasibility; define measurement gate.
+R3 F3
+NOTABLE
+Endpoint not frozen
+Supported before confirmatory data; Turn 2 focal recommended.
+R3 F4
+MINOR
+Notes may count as interruption
+Supported; define permitted note and completion categories.
+R3 F5
+NOTABLE
+Smallest extension undefined
+Qualified; candidate is stated, but value needs comparison to new prior work.
+
+Appendix finding register returns R4 and R5
+Copied from the 7 November review-decision record. Original severity is a reviewer label; the assessment is a recommendation, not an author ruling.
+Finding
+Original severity
+Issue
+Assessment
+R4 F1
+NOTABLE
+Exact C absent and not comparable
+Runtime issue supported; clean clause isolation is not the stated aim.
+R4 F2
+NOTABLE
+Margins needed before pilot
+Before confirmation supported; a hand-scoring exercise need not fix a 90% margin.
+R4 F3
+MINOR
+Provisional Turn 3 endpoint
+Supported open choice; severity differs from other returns.
+R4 F4
+NOTABLE
+Concrete scorer protocol missing
+Supported; record reliability and ambiguity before model calls.
+R4 F5
+NOTABLE
+Contribution remains open
+Supported as an open decision, not a novelty verdict.
+R5 F1
+BLOCKER
+Cannot retrieve published comparator
+Exact runtime still open; source existence and S4 are now verified.
+R5 F2
+NOTABLE
+Faithful to draft versus evidence
+Supported; define common task without disadvantaging A.
+R5 F3
+BLOCKER for confirmation
+No combined success rule
+Freeze tradeoff criteria for confirmation; no composite score is required.
+R5 F4
+NOTABLE
+B discloses scoring criteria
+Not an invalidity by itself; no item answers disclosed; test held-out cases.
+R5 F5
+NOTABLE
+Clarification and role exception penalize C
+Compatibility concern supported; automatic penalty is not yet established.
+R5 F6
+NOTABLE
+Status label versus cosmetic hedge
+Supported; define allowed annotations and assertions.
+R5 F7
+NOTABLE
+Which artifact Turn 3 edits unclear
+Supported; fix the target artifact and scripted history.
+R5 F8
+NOTABLE
+Update authority only stipulated
+Supported runtime issue; define a common trusted-update contract.
+R5 F9
+NOTABLE
+Superseded value scoring unclear
+Supported; distinguish stale contradiction and failed updating measures.
+R5 F10
+NOTABLE
+Preservation binary in walkthrough
+Supported for richer development cases; do not overclaim example coverage.
+R5 F11
+MINOR
+Raw error counts favor brevity
+Qualified; retain counts plus preservation; automatic normalization may mislead.
+R5 F12
+NOTABLE
+Ceiling risk and weak pressure
+Pilot already checks ceilings; no efficacy or 25-turn robustness inference.
+R5 F13
+MINOR
+C outputs may reveal condition
+Already disclosed residual-blinding risk; retain as practical check.
+R5 F14
+MINOR
+Earlier plan unavailable
+Declared dependency; blocks overlap reconciliation, not this review.
+Pause record v0.1  |  7 November 2026  |  
