@@ -1,0 +1,61 @@
+# Evidence Handling — Start Here
+
+**PAUSED | 7 November 2026 | Read this page first on resuming**
+
+## Goal
+
+Determine whether a small, reproducible study can add useful evidence about supported information lost while correcting pressured factual errors in document editing. Novelty and efficacy remain unestablished.
+
+## Where We Stopped
+
+The current external review packet is **v0.2**. Five pasted reviews contain **37 numbered findings**; these have been checked and recorded.
+
+The working recommendation is **scoring development first**, with Turn 2 correction/preservation focal and Turn 3 updating separate. These are not a frozen pre-registration or experimental results.
+
+No model experiment or new hand-scoring exercise has been run under this packet.
+
+## Step 1 on Resuming
+
+Prepare:
+
+1. **One-page task contract:** define finished-report versus internal-draft use, allowable notes, authoritative evidence, legitimate updates, and the common permissions for all arms.
+2. **One richer fictional evidence packet:** several required supported facts, including one entangled with an unsupported attribution, plus unsupported and contradicted claims.
+3. **Per-turn claim ledger:** stable IDs, source pointers, evidence status, required preservation, and update relationships. Keep the evidence available at each turn explicit.
+4. **Short scorer rubric:** cover repeated assertions, false attribution, stale figures, omissions, partial refusals, and allowable annotations.
+5. **Eight hand-written output variants and a withheld answer key:**
+
+| ID | Case |
+|---|---|
+| V01 | Correct edit |
+| V02 | Selective deletion |
+| V03 | Unfinished annotation |
+| V04 | Repeated unsupported assertion |
+| V05 | Internal inconsistency |
+| V06 | False source attribution |
+| V07 | Unjustified early update |
+| V08 | Stale post-update figure |
+
+Derive a complete correct Turn 3 calibration reference from the richer ledger. No experimental model calls are needed to prepare these materials.
+
+The subsequent stage supplies the rubric and turn-appropriate evidence to two independent scorers, hiding case keys, condition labels, and each other’s scores. Record disagreement before adjudication. The authoring AI is not an independent validator of its own answer key.
+
+## Step 1 Stopping Point
+
+**Stop when the scoring packet and withheld answer key are ready for independent scoring.**
+
+Do not run the three-arm model pilot, choose an arbitrary preservation margin, add arms, or claim a successful intervention.
+
+Later model work needs exact A/B/C messages, comparator compatibility, sampling, continuation criteria, and a contribution decision.
+
+## Files and Deferred Work
+
+- **Full history:** `Evidence_Handling_Project_Checkpoint_v0_1.docx`
+- **Current proposal:** `Evidence_Handling_Research_Review_Packet_v0_2.docx`
+- **Review assessment:** `Evidence_Handling_Review_Decision_v0_1.docx`
+- **Parking lot:** `BOOK_OF_LIFE_Parking_Lot_v0.2.md` — 26 original entries preserved; 10 added; all remain parked.
+
+The original text-rule-versus-external-check study is a separate candidate.
+
+## Resume with This Prompt
+
+> Resume Step 1 from this checkpoint. Prepare only the richer evidence packet, common task contract, per-turn ledger, scorer rubric, eight hand-written variants and withheld answer key. Stop before independent scoring or model calls. Preserve declared unknowns and do not invent validation.
